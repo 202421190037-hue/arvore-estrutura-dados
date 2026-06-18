@@ -6,6 +6,7 @@ Herbert Duarte (202311190025@ifba.edu.br)
 Guilherme France (202511190039@ifba.edu.br)
 Fábio Alves (202511190044@ifba.edu.br)
 Erica Menezes (202511190030@ifba.edu.br)
+Calil Soares (202121190037@ifba.edu.br)
 
 ## Descrição
 
