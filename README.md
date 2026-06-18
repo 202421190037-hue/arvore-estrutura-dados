@@ -4,7 +4,9 @@
 
 Herbert Duarte (202311190025@ifba.edu.br)
 Guilherme France (202511190039@ifba.edu.br)
+Fábio Alves (202511190044@ifba.edu.br)
 Erica Menezes (202511190030@ifba.edu.br)
+
 ## Descrição
 
 Sistema Java para gerenciar divisões territoriais de forma hierárquica usando estrutura de árvore N-ária. O usuário interage com o sistema através de uma interface por linha de comando (CLI).
